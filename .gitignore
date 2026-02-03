@@ -1,3 +1,34 @@
+# FreeFileSync
+.sync.ffs_db
+
+# VScode
+.vscode
+
+# Folders
+*/ham/
+*/spam/
+*lenguaje/Teoria/data/train/
+*lenguaje/Teoria/data/test/
+*/data/dogs_cats/
+
+# Solved notebooks
+*.solved.ipynb
+*.unsolved.ipynb
+
+# Solved python scripts
+*.solved.py
+*.unsolved.py
+
+# Solved CSVs
+*.solved.csv
+
+# Solved SQL queries
+*.solved.sql
+
+# Solved anything else
+*.solved.*
+*.unsolved.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
